@@ -1,14 +1,17 @@
-# football-test
-Github:
-    Find project in https://github.com/villegasnaty/football-test
+# Demo Sirova Technical Challenge
 
-Tool versions:
-    Mysql: 5.7.27
-    Java: 8
-    SpringBoot: 2.2.1.RELEASE
+* Rest Services example
+* Deployed in Elastic Beanstalk AWS
 
-Api calls:
-    https://www.football-data.org/
-    To use api configure api key in application.yaml application.footballapikey 
+### Execution
 
-demo-sirova
+```
+http://demosirova-env-1.tkmzep3bzu.us-east-1.elasticbeanstalk.com/swagger-ui.html
+```
+
+## Built With
+
+* [Maven 3.6](https://maven.apache.org/) - Dependency Management
+* Java 8
+* Mysql: 5.7.27
+* SpringBoot: 2.2.1.RELEASE
